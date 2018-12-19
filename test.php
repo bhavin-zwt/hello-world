@@ -16,4 +16,3 @@ if ($res === TRUE) {
 
 echo 'master change';
 
-echo 'window change';
